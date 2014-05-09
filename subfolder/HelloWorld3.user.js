@@ -1,7 +1,7 @@
 (function () {
 
 // ==UserScript==
-// @name          Hello World
+// @name          Hello World3
 // @namespace     http://localhost.localdomain
 // @description   JavaScript alert box saying Hello, World!
 // @copyright     2007+, Marti Martz (http://userscripts.org/users/37004)
