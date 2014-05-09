@@ -7,7 +7,7 @@
 // @copyright     2007+, Marti Martz (http://userscripts.org/users/37004)
 // @license       GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @license       (CC); http://creativecommons.org/licenses/by-nc-sa/3.0/
-// @version       0.0.0
+// @version       0.0.1
 // @icon          https://s3.amazonaws.com/uso_ss/icon/13701/large.png
 
 // @include   http://www.example.com/*
@@ -17,5 +17,12 @@
 // ==/UserScript==
 
   alert('Hello, World!');
+
+  /**
+   * Testing out to see if this auto-syncs with repo webhook configured to
+   * `application/x-www-form-urlencoded` since this type changed
+   * from `application/vnd.github.v3+form` with
+   * `push event only`, `no secret` and `verify SSL`
+   */
 
 })();
