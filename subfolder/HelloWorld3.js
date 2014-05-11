@@ -1,1 +1,1 @@
-HelloWorld3.user.js
+GoodbyeWorld3.user.js
