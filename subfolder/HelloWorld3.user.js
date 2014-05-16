@@ -19,3 +19,5 @@
   alert('Hello, World!');
 
 })();
+
+// Test syncop with shortfilename and space @name with no special characters needed for encoding
